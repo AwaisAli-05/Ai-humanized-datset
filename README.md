@@ -99,4 +99,4 @@ Thanks to the open-source AI and research community for advancing NLP, LLMs, and
 
 ## Contact
 
-For questions, feedback, or collaboration opportunities, feel free to open an issu
+For questions, feedback, or collaboration opportunities, feel free to open an issue
