@@ -1,3 +1,4 @@
+![AI vs Humanized Academic Writing Dataset](./main.png)
  # AI vs Humanized Academic Writing Dataset
 
 A dataset containing **AI-generated and humanized academic writing samples** created for research in Natural Language Processing (NLP), Large Language Models (LLMs), AI text analysis, and text transformation.
